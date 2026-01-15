@@ -3,7 +3,7 @@ let score  = false
 // console.log(typeof score);
 // console.log(typeof(score));
 
-// let valueInNumber =  Number(score)
+let valueInNumber =  Number(score)
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
 
@@ -15,6 +15,7 @@ let score  = false
 // undefined => NaN
 
 let isloggedIn =  "1"
+
 let booleanIsloggedIn = Boolean(isloggedIn)
 // console.log(booleanIsloggedIn);
 
