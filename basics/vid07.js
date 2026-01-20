@@ -1,4 +1,4 @@
-// primitive                   // JAVASCRIPT is a dynamically typed language
+// primitive                    // JAVASCRIPT is a dynamically typed language
 
 // 7 types : String, Number, Boolean, Null, Undefined, Symbol, BigInt
 
@@ -18,7 +18,7 @@ console.log(id === anotherId); // false
 const bigNumber = 3456789012345678901234567890n
 
 
-// Reference (Non Primitive) 
+// Reference (Non Primitive) //
 
 //  Object, Array, Function 
 
