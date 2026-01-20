@@ -20,7 +20,7 @@ let isloggedIn =  "1"
 
 let booleanIsloggedIn = Boolean(isloggedIn)
 // console.log(booleanIsloggedIn);
-
+//
 // 1 => true, 0 => false
 // "" => false
 // "hiren" => true
